@@ -1,0 +1,47 @@
+[
+    {
+        "nome_projeto": "Recrutamento de Talentos",
+        "funcionario_responsavel": "Marcelo",
+        "count_dependentes": 3
+    },
+    {
+        "nome_projeto": "Lancamento do Produto X",
+        "funcionario_responsavel": "Amanda",
+        "count_dependentes": 2
+    },
+    {
+        "nome_projeto": "Plano de Treinamento",
+        "funcionario_responsavel": "Carolina",
+        "count_dependentes": 2
+    },
+    {
+        "nome_projeto": "Conformidade Legal",
+        "funcionario_responsavel": "Catarina",
+        "count_dependentes": 2
+    },
+    {
+        "nome_projeto": "Automatizacao de Processos",
+        "funcionario_responsavel": "Felipe",
+        "count_dependentes": 2
+    },
+    {
+        "nome_projeto": "Otimizacao Administrativa",
+        "funcionario_responsavel": "Isadora",
+        "count_dependentes": 2
+    },
+    {
+        "nome_projeto": "Social Media Insights",
+        "funcionario_responsavel": "Joana",
+        "count_dependentes": 2
+    },
+    {
+        "nome_projeto": "Reducao de Custos",
+        "funcionario_responsavel": "Michel",
+        "count_dependentes": 2
+    },
+    {
+        "nome_projeto": "Novo Portal Web",
+        "funcionario_responsavel": "Thiago",
+        "count_dependentes": 2
+    }
+]

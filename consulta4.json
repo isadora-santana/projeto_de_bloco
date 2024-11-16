@@ -1,0 +1,35 @@
+[
+    {
+        "nome_projeto": 3,
+        "descricao": "Recrutamento de Talentos",
+        "data_inicio": "Desenvolver um sistema automatizado para recrutamento",
+        "data_conclusao": "01/03/2024",
+        "funcionario_responsavel": "01/12/2024",
+        "departamento": "Marcelo",
+        "custo_projeto": 2,
+        "status": 40000.0,
+        "impacto_estrategico": "Em Execucao"
+    },
+    {
+        "nome_projeto": 5,
+        "descricao": "Novo Portal Web",
+        "data_inicio": "Desenvolvimento de um portal integrado para clientes",
+        "data_conclusao": "01/11/2023",
+        "funcionario_responsavel": "30/05/2024",
+        "departamento": "Thiago",
+        "custo_projeto": 4,
+        "status": 80000.0,
+        "impacto_estrategico": "Em Execucao"
+    },
+    {
+        "nome_projeto": 6,
+        "descricao": "Automatizacao de Processos",
+        "data_inicio": "Criacao de um sistema para automatizar processos internos",
+        "data_conclusao": "01/10/2023",
+        "funcionario_responsavel": "31/03/2024",
+        "departamento": "Felipe",
+        "custo_projeto": 4,
+        "status": 90000.0,
+        "impacto_estrategico": "Em Execucao"
+    }
+]

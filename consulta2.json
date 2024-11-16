@@ -1,0 +1,17 @@
+[
+    {
+        "descricao_recurso": "Criacao de pecas publicitarias",
+        "tipo_recurso": "Humano",
+        "quantidade_utilizada": 100
+    },
+    {
+        "descricao_recurso": "Material para workshops",
+        "tipo_recurso": "Material",
+        "quantidade_utilizada": 50
+    },
+    {
+        "descricao_recurso": "Equipamentos de TI",
+        "tipo_recurso": "Material",
+        "quantidade_utilizada": 20
+    }
+]
